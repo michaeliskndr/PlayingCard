@@ -1,3 +1,3 @@
 # Playing Card
 
-Learning Code from Stanford CS-193P
+Learning code and playing with animation in IOS Development from Stanford CS-193P
